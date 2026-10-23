@@ -1,0 +1,66 @@
+JEKU CLI SOFTWARE LICENSE
+Version 1.0 — September 10, 2026
+Copyright (c) 2026 Chatroid, LLC. All rights reserved.
+
+This license governs the proprietary jeku.ai command-line application
+("Software") provided by Chatroid, LLC ("Licensor"). By installing or using
+the Software, you agree to this license. If you do not agree, do not use it.
+
+1. Permission to use
+Licensor grants you a non-exclusive, worldwide license to download, install,
+and run the Software for your own personal or internal business purposes,
+including accessing jeku.ai to perform work for your customers. You may make
+reasonable backup copies and distribute unchanged copies within your own
+organization for authorized users, retaining this license and all notices.
+No license fee is charged for these uses of the Software.
+
+2. Ownership and restrictions
+The Software is licensed, not sold. Licensor and its licensors retain all
+rights not expressly granted. This license grants no right to the proprietary
+source code or to use Licensor's trademarks except to identify the Software.
+Unless Licensor separately permits it in writing, you may not sell, rent,
+sublicense, publicly redistribute, or rebrand the Software; modify it or
+create derivative works; remove ownership notices; or bypass authentication,
+authorization, usage limits, or payment controls. You may not reverse engineer,
+decompile, or disassemble the Software except to the extent applicable law
+permits despite this restriction. Nothing here limits rights that applicable
+law does not allow the parties to exclude.
+
+3. Cloud services and your content
+This license does not grant free or unlimited access to jeku.ai or third-party
+services. Those services may require an account, internet access, subscriptions,
+usage charges, and separate acceptance of their terms. Their availability and
+permitted use are governed by those separate terms. This license grants
+Licensor no ownership of your projects, inputs, or generated outputs; rights
+in those materials are governed by the applicable service terms and law.
+
+4. Third-party components
+Third-party components are governed by their own licenses, including those
+identified in THIRD_PARTY_NOTICES.txt. Those licenses control for their
+respective components, and nothing in this license restricts permissions or
+rights granted by them. The restrictions above apply only to Licensor's
+proprietary Software to the extent permitted by those third-party licenses.
+
+5. Termination
+You may end this license by ceasing use and deleting your copies. Licensor
+may terminate it if you materially breach these terms and do not remedy the
+breach within 30 days after written notice, where the breach can be remedied.
+Upon termination, stop using and delete the proprietary Software. Ownership,
+third-party rights, disclaimers, and liability provisions survive termination.
+
+6. Warranty and liability
+To the maximum extent permitted by law, the Software is provided "AS IS" and
+"AS AVAILABLE", without express or implied warranties, including warranties
+of merchantability, fitness for a particular purpose, and non-infringement.
+Licensor does not promise uninterrupted or error-free operation.
+To the maximum extent permitted by law, Licensor is not liable for indirect,
+incidental, special, consequential, or punitive damages, or loss of profits,
+data, or business, arising from use of or inability to use the Software.
+Nothing in this license excludes liability or statutory consumer rights that
+cannot lawfully be excluded or limited.
+
+7. Scope and contact
+This license applies to the version with which it is supplied. Later releases
+may include different terms; changes do not retroactively amend this license.
+If a provision is unenforceable, the remaining provisions remain effective.
+For licensing questions or additional permissions, contact jeku@jeku.ai.
